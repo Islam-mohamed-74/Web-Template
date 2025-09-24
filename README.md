@@ -1,7 +1,7 @@
 Web Template
 A responsive web template built to practice HTML and CSS.
 Technologies
-
+![preview](./image.jpg)
 HTML
 CSS
 
